@@ -1,0 +1,18 @@
+.bg-image-1{
+    background: url('/images/background-images/bg-image-1.jpg') no-repeat;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-blend-mode: overlay;
+}
+.bg-image-2{
+    background: url("/images/background-images/bg-image-2.jpg") no-repeat;
+    position: relative;
+    background-color: rgb(6, 34, 93);
+    background-blend-mode: overlay;
+}
+.bg-image-3{
+    background: url("/images/background-images/bg-image-3.jpg") no-repeat;
+    position: relative;
+    background-color: rgb(28, 77, 180);
+    background-blend-mode: overlay;
+}
